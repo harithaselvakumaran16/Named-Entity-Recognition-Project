@@ -1,0 +1,12 @@
+pandas
+numpy==1.21.2
+tqdm==4.62.3
+torch
+scikit-learn
+seqeval
+transformers
+matplotlib
+seaborn==0.11.2
+keras
+tensorflow
+SpeechRecognition
