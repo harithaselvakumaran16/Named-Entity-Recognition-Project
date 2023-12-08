@@ -1,3 +1,3 @@
-Download the model file from the google drive link and add it to the Model folder.
+Download the model file from the google drive link (ner_model.pth) and add it to the Model folder.
 
 Drive link - https://drive.google.com/drive/folders/1kgzOyA9-k2FHLzGiW4QGvRKF1hpiMELy?usp=drive_link
