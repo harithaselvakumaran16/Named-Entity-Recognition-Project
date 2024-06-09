@@ -1,0 +1,7 @@
+exp/**
+data/**
+results/**
+common_voice_11_0/**
+
+accent_id/notebooks/**
+accent_id/hparams/backup
